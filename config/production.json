@@ -1,0 +1,18 @@
+{
+	"prefix": ".",
+	"developer": "847770840266833961",
+	"owners": ["847770840266833961", "1071843392268546068", "966230921084796999"],
+	"positions": {
+		"developers": ["847770840266833961", "966230921084796999"],
+		"website_designers": ["1151502339476312086"],
+		"contributers": ["314599100811051008", "1071843392268546068"]
+	},
+	"links": {
+		"invite": "",
+		"support": "https://discord.gg/awarebot",
+		"website": "https://awarebot.pro/"
+	},
+	"colors": {
+		"primary": 2829617
+	}
+}
